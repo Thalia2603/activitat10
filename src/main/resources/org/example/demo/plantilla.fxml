@@ -64,7 +64,25 @@
                         </content>
                      </TitledPane>
                    <TitledPane animated="false" text="Pregunta 2" />
+                     <VBox prefHeight="200.0" prefWidth="100.0">
+                         <children>
+                             <TextField floatText="Escoge una discoteca" />
+                             <CheckBox mnemonicParsing="false" text="Razzmataz" />
+                             <CheckBox mnemonicParsing="false" text="Waka" />
+                             <CheckBox mnemonicParsing="false" text="Bling Bling" />
+                             <CheckBox mnemonicParsing="false" text="L'ovella negra" />
+                         </children>
+                     </VBox>
                      <TitledPane animated="false" layoutX="10.0" layoutY="488.0" text="Pregunta 4" />
+                     <VBox prefHeight="200.0" prefWidth="100.0">
+                         <children>
+                             <TextField floatText="Escoge una discoteca" />
+                             <CheckBox mnemonicParsing="false" text="Razzmataz" />
+                             <CheckBox mnemonicParsing="false" text="Waka" />
+                             <CheckBox mnemonicParsing="false" text="Bling Bling" />
+                             <CheckBox mnemonicParsing="false" text="L'ovella negra" />
+                         </children>
+                     </VBox>
                      <TitledPane animated="false" layoutX="10.0" layoutY="488.0" text="Pregunta 5" />
                  </panes>
                </Accordion>
